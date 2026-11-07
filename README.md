@@ -16,9 +16,7 @@
   <tr>
     <td width="100%" valign="top">
       <p>
-        First year CSE undergrad. Learning and building — currently getting
-        comfortable with the fundamentals in Python, C, and the web basics,
-        while figuring out what to build next.
+        locked in
       </p>
       <p>
         📍 Just started college &nbsp;•&nbsp; 🌱 Still early, still exploring &nbsp;•&nbsp; 🎯 Building toward internships
